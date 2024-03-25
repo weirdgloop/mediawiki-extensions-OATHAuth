@@ -66,6 +66,7 @@ class UpdateTables implements LoadExtensionSchemaUpdatesHook {
 					break;
 			}
 
+			/* WGL - Disable schema migration during update.php
 			$updater->addExtensionUpdate( [
 				'runMaintenance',
 				UpdateForMultipleDevicesSupport::class,
@@ -73,6 +74,7 @@ class UpdateTables implements LoadExtensionSchemaUpdatesHook {
 			] );
 
 			$updater->dropExtensionTable( 'oathauth_users' );
+			*/
 		}
 
 		// add new updates here
