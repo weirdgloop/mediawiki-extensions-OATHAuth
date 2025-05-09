@@ -15,7 +15,9 @@
 			"McDutchie",
 			"MuratTheTurkish",
 			"PoLuX124",
-			"No se"
+			"No se",
+			"Eulalio",
+			"Aleator"
 		]
 	},
 	"oathauth-desc": "Proporciona compatibilidad con la autenticación mediante contraseñas en HMAC de un solo uso",
@@ -27,6 +29,7 @@
 	"oathauth-enable": "Activar la autenticación en dos pasos",
 	"oathauth-recoverycodes-important": "¡Este paso es importante! ¡No te saltes este paso!",
 	"oathauth-token": "Clave",
+	"oathauth-recoverycodes-download": "Descargar códigos de recuperación",
 	"oathauth-disable": "Desactivar la autenticación en dos pasos",
 	"oathauth-validatedoath": "Se han validado las credenciales en dos pasos. Ahora se aplicará la autenticación en dos pasos.",
 	"oathauth-noscratchforvalidation": "No puedes utilizar códigos predefinidos para confirmar la autenticación de dos pasos. Tales códigos solo sirven como respaldo y para uso ocasional accesorio. Utiliza un código de verificación proveniente de un generador de códigos.",
@@ -102,7 +105,7 @@
 	"notification-body-oathauth-disable-other": "Si {{GENDER:$2|tu}} no has solicitado esto, {{GENDER:$2|deberías}} ponerte en contacto con un administrador.",
 	"oathauth-notifications-disable-help": "Ayuda",
 	"notification-header-oathauth-enable": "La autenticación de dos pasos se ha activado en {{GENDER:$2|tu cuenta}}.",
-	"notification-body-oathauth-enable": "Si {{GENDER:$2|tu}}no hiciste esto, {{GENDER:$2|tu cuenta}} puede haber estado comprometida.",
+	"notification-body-oathauth-enable": "Si {{GENDER:$2|tú}} no hiciste esto, {{GENDER:$2|tu cuenta}} puede haber estado comprometida.",
 	"oathauth-notifications-enable-help": "Ayuda",
 	"oathauth-verify-enabled": "{{GENDER:$1|$1}} tiene activada la autenticación en dos pasos.",
 	"oathauth-verify-disabled": "{{GENDER:$1|$1}} no tiene activada la autenticación en dos pasos.",
